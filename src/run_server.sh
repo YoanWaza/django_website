@@ -1,0 +1,1 @@
+/c/Users/user/Desktop/Udemy/DashBoardCurrency/venv/Scripts/python /c/Users/user/Desktop/Udemy/DashBoardCurrency/src/manage.py runserver
