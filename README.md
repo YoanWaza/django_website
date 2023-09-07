@@ -1,4 +1,4 @@
-###Dynamic Charts
+### Dynamic Charts
 This website allows you to dynamically change the displayed charts using the URL.
 
 To view a chart for a specific currency, simply append it to the URL like this:
